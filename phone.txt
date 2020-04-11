@@ -1,1 +1,4 @@
-phone
+git checkoutphone
+
+touchscreen
+scratchless-gorilla glass
